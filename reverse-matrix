@@ -24,4 +24,4 @@ reverse_matrix <- function(matriz){
 ### Example:
 
 # mi_matriz <- matrix(1:30, ncol = 5, nrow = 6)
-# reverse(mi_matriz)
+# reverse_matrix(mi_matriz)
