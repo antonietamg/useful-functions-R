@@ -17,3 +17,6 @@ random_shuffle <- function(x){
   return(sorting)
 }
 
+# Example:
+# data = c(1:100)
+# shuffle_surrogates <- random_shuffle(data)
